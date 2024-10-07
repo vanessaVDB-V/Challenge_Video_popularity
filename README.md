@@ -1,6 +1,6 @@
 # Challenge_Video_popularity
 
-Participation au challenge Video Popularity de Bitgrit (https://bitgrit.net/competition/11) dans le cadre d'un projet scolaire. 
+Participation au challenge Video Popularity de Bitgrit (https://bitgrit.net/competition/11) dans le cadre d'un projet scolaire en 2021. 
 Sur ce repository, on retrouve le code et le diaporama de présentation du projet. 
 
 ## Contexte
